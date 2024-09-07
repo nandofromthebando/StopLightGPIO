@@ -11,7 +11,7 @@ sudo apt-get install wiringpi
 
 ##Wiring
 
--- Red LED: Connect to GPIO 23 (Physical pin 16).
+ * Red LED: Connect to GPIO 23 (Physical pin 16).
 -- Green LED: Connect to GPIO 24 (Physical pin 18).
 -- Yellow LED: Connect to GPIO 25 (Physical pin 22).
 -- Ground (GND): Connect to any ground pin (e.g., Physical pin 6).
